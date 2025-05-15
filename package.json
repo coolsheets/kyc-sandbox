@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/coolsheets/kyc-sandbox/issues"
   },
-  "homepage": "https://github.com/coolsheets/kyc-sandbox#readme"
+  "homepage": "https://github.com/coolsheets/kyc-sandbox#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
 }
